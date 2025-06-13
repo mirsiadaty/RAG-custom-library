@@ -1,5 +1,5 @@
 # RAG-custom-library
-This system adds flexibility to a conventional library catalog search system, where the use can express his/her request in plain English.
+This system adds flexibility to a conventional library catalog search system, where the user can express his/her request in plain English.
 
 This example uses a local QwQ language model (qwq-32b-q8_0.gguf). QwQ is the reasoning model of the Qwen series. This example runs the inference on 'llama_cpp'. Llama.cpp is a software library written in C/C++ designed for efficient inference of large language models.
 
